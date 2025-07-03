@@ -1,7 +1,4 @@
-''' escolhe uma operadora
-    digitar o numero
-    valor
-    pronto'''
+
 
 opradora = []
 def opradora_vivo():
